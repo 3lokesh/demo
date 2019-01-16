@@ -1,0 +1,7 @@
+Hive login to CLI mode
+hive -e for external command and hive -f for file with queries
+For accessing the linux shell
+http://localhost:4200/ 
+Sandbox-hdp login: root, bigdata1234
+
+
